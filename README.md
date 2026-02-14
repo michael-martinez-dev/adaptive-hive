@@ -19,7 +19,7 @@ full connectivity enables all applications plus HQ-only services.
 **Work in Progress** - Currently building the gossip layer (SWIM protocol implementation).
 
 ### Completed
-- [ ] Transport abstraction with test harness
+- [x] Transport abstraction with test harness
 - [ ] SWIM protocol message types
 - [ ] Membership list with state merge logic
 - [ ] Message serialization (envelope-based gob)
